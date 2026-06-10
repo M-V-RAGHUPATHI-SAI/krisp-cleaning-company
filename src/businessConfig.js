@@ -1,11 +1,7 @@
-// Krisp Cleaning Company — businessConfig
-// Generated: 2026-06-11 01:12
-// Edit freely. Re-run the generator to rebuild from scratch.
-
 export const businessConfig = {
   "name": "Krisp Cleaning Company",
   "namePart1": "Krisp",
-  "namePart2": "",
+  "namePart2": "Clean",
   "tagline": "Cleaning Done Right",
   "category": "cleaning",
   "city": "Cincinnati",
@@ -555,5 +551,3 @@ export const businessConfig = {
     ]
   }
 };
-
-export default businessConfig;
